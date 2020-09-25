@@ -3,7 +3,7 @@ Recipe and Nutrition Trends and Analysis using Python, Web-scraping of AllRecipe
 
 USC INF 510 Fall 2019 Project by Kirsten Fure
 
-#1. Go to /src/fure_kirsten.ipynb within GitHub to see MAIN PROJECT and code.
+## 1. Go to /src/fure_kirsten.ipynb (within GitHub) to see MAIN PROJECT and code.
 
 
 2. How to run project code:
